@@ -1,0 +1,8 @@
+name: AtAdmin
+main: to.uk.Skynykx.AtAdmin
+author: JayzaSapphire
+version: 0.1
+commands:
+  at:
+    description: The admin command.
+    permission: atadmin.admin
